@@ -87,6 +87,7 @@ coreutils
 cp
 cpio
 crc32
+cron
 crontab
 csplit
 ctags
@@ -145,6 +146,7 @@ getconf
 getopt
 getopts
 getty
+gpg
 grep
 groups
 gunzip
@@ -254,6 +256,7 @@ ping
 ping6
 pinky
 pivot_root
+podman
 poweroff
 pr
 printenv
@@ -289,6 +292,7 @@ rmmod
 route
 rpm
 rpm2cpio
+rsync
 run-init
 run-parts
 runcon
@@ -318,6 +322,7 @@ stdbuf
 strings
 strip
 stty
+sudo
 sum
 svc
 svok
@@ -333,6 +338,7 @@ tail
 talk
 tar
 taskset
+tcpdump
 tee
 telnet
 test
