@@ -51,11 +51,8 @@ ascii
 ash
 at
 awk
-b2sum
-base32
 base64
 basename
-basenc
 batch
 bc
 bg
@@ -71,7 +68,6 @@ cal
 cat
 cd
 cflow
-chcon
 chgrp
 chmod
 chown
@@ -83,7 +79,6 @@ cmp
 comm
 command
 compress
-coreutils
 cp
 cpio
 crc32
@@ -103,8 +98,6 @@ depmod
 devmem
 df
 diff
-dir
-dircolors
 dirname
 dmesg
 dnsdomainname
@@ -130,7 +123,6 @@ fgrep
 file
 find
 findfs
-fmt
 fold
 fort77
 free
@@ -171,7 +163,6 @@ ifdown
 ifup
 init
 insmod
-install
 ionice
 ip
 ipcalc
@@ -243,7 +234,6 @@ nproc
 nsenter
 nslookup
 nuke
-numfmt
 od
 openvt
 partprobe
@@ -254,16 +244,13 @@ pax
 pidof
 ping
 ping6
-pinky
 pivot_root
 podman
 poweroff
 pr
-printenv
 printf
 prs
 ps
-ptx
 pwd
 qalter
 qdel
@@ -295,7 +282,6 @@ rpm2cpio
 rsync
 run-init
 run-parts
-runcon
 sact
 sccs
 sed
@@ -305,9 +291,7 @@ setpriv
 setsid
 sh
 sha1sum
-sha224sum
 sha256sum
-sha384sum
 sha3sum
 sha512sum
 shred
@@ -318,12 +302,10 @@ split
 ssl_client
 start-stop-daemon
 stat
-stdbuf
 strings
 strip
 stty
 sudo
-sum
 svc
 svok
 swapoff
@@ -377,7 +359,6 @@ unshare
 unxz
 unzip
 uptime
-users
 usleep
 uucp
 uudecode
@@ -386,7 +367,6 @@ uustat
 uux
 val
 vconfig
-vdir
 vi
 w
 wait
