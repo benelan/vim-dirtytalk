@@ -18,6 +18,7 @@ __future__
 __slots__
 abstract
 alias
+analyzer
 and
 annotate
 annotation
@@ -89,6 +90,7 @@ iterator
 key
 keyword
 lambda
+lexical
 list
 loader
 locale
@@ -142,6 +144,7 @@ string
 strong
 text
 threading
+token
 triple-quoted
 tuple
 type
