@@ -18,6 +18,7 @@ CustomResourceDefinition
 DaemonSet
 Deployment
 DeviceClass
+DeviceTaintRule
 EndpointSlice
 Endpoints
 Event
