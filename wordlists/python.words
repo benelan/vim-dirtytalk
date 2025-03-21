@@ -24,6 +24,7 @@ annotate
 annotation
 argument
 asynchronous
+attached
 attribute
 awaitable
 base
@@ -138,11 +139,13 @@ slice
 soft
 spec
 special
+state
 statement
 static
 string
 strong
 text
+thread
 threading
 token
 triple-quoted
