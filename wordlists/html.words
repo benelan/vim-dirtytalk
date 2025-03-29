@@ -107,6 +107,7 @@ script
 search
 section
 select
+selectedcontent
 shadow
 slot
 small
