@@ -46,6 +46,7 @@ contiguous
 coroutine
 count
 current
+cyclic
 decorator
 deprecated
 descriptor
@@ -86,6 +87,7 @@ importing
 interactive
 interpreted
 interpreter
+isolate
 iterable
 iterator
 key
