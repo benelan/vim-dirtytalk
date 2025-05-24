@@ -5,7 +5,6 @@ RUN apt-get update && apt-get install -y \
     curl \
     hunspell \
     jq \
-    pup \
     python3 \
     python3-inflection \
     python3-yaml \
