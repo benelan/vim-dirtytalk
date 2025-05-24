@@ -2,7 +2,7 @@
 source "$(dirname "$0")/common.sh"
 
 emit_header "HTML tags"
-curl -s "https://developer.mozilla.org/en-US/docs/Web/HTML/Element" |
+curl -Ls "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Element" |
     pup 'code text{}' |
     recode html..utf8 |
     grep -E '<.+>' |
