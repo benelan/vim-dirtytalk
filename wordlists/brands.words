@@ -160,6 +160,7 @@ Ant
 AntV
 Anta
 Antena
+AntennaPod
 Anthropic
 AnyDesk
 Anycubic
@@ -372,6 +373,7 @@ Bower
 Box
 Boxy
 Braintree
+Brandfetch
 Brandfolder
 Brave
 Breaker
@@ -699,6 +701,7 @@ DHL
 DJ
 DJI
 DLNA
+DMM
 DOI
 DPD
 DS
@@ -922,6 +925,7 @@ European
 Event
 Eventbrite
 Evernote
+Every.org
 Excalidraw
 Exchange
 Exercism
@@ -1038,6 +1042,7 @@ Ford
 Forgejo
 Fork
 Form
+Formbricks
 Formik
 Forms
 Formspree
@@ -1071,6 +1076,7 @@ FreeTube
 Freelancer
 Freepik
 Fresh
+Frigate
 Frontend
 Frontify
 Fubo
@@ -1408,6 +1414,7 @@ It
 Itch.io
 JBL
 JCB
+JDoodle
 JET
 JFrog
 JHipster
@@ -1953,6 +1960,7 @@ Nextra
 Nexus
 NgRx
 Nginx
+Nhost
 NiFi
 NiceHash
 Nike
@@ -1976,6 +1984,7 @@ Normalize.css
 North
 Norton
 Norwegian
+NotebookLM
 Notepad++
 Notion
 Notist
@@ -2656,6 +2665,7 @@ Silver
 Similarweb
 Simkl
 Simple
+SimpleLocalize
 SimpleLogin
 SimpleX
 Simplenote
@@ -2842,6 +2852,7 @@ Sway
 Swift
 Swiggy
 Swiper
+Swisscows
 SymPy
 Symantec
 Symbolab
@@ -2859,6 +2870,7 @@ TED
 TELE
 TGA
 THE
+TIDAL
 TOML
 TON
 TOTVS
@@ -2942,7 +2954,6 @@ Thurgauer
 Thymeleaf
 TickTick
 Ticketmaster
-Tidal
 TiddlyWiki
 Tide
 Tidyverse
@@ -3237,6 +3248,7 @@ Wikiversity
 Wikivoyage
 Winamp
 Windows
+Windsurf
 Wine
 Wipro
 Wire
