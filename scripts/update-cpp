@@ -2,7 +2,7 @@
 source "$(dirname "$0")/common.sh"
 
 emit_header "C++-related vocabulary"
-curl -s https://www.stroustrup.com/glossary.html |
+curl -LSs https://www.stroustrup.com/glossary.html |
     pup -p 'b text{}' |
     grep '[a-zA-Z]' |
     tr ' ' '\n' |

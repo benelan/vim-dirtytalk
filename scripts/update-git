@@ -2,7 +2,7 @@
 source "$(dirname "$0")/common.sh"
 
 emit_header "Git-related vocabulary"
-curl -s 'https://raw.githubusercontent.com/git/git/master/Documentation/glossary-content.adoc' |
+curl -LSs 'https://raw.githubusercontent.com/git/git/master/Documentation/glossary-content.adoc' |
     grep -E -o ']].+::' |
     tr -d ']:()' |
     tr ' ' '\n' |
