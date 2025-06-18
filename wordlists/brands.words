@@ -19,6 +19,7 @@
 9GAG
 A
 A-Frame
+AB
 ABB
 ACM
 ADP
@@ -29,13 +30,12 @@ AI
 AIB
 AIOHTTP
 ALX
+AList
 AMD
 AMD64
 AMG
 AMP
 ANA
-AOL
-API
 APM
 AR
 ARAL
@@ -43,7 +43,7 @@ ARK
 ASDA
 ASUS
 AT&T
-AWS
+AVM
 Abbott
 Abbvie
 About.me
@@ -67,6 +67,7 @@ AdBlock
 AdGuard
 AdMob
 AdSense
+Ada
 Adafruit
 Adblock
 Addict
@@ -112,7 +113,6 @@ Albert
 Alby
 Alchemy
 Aldi
-Alexa
 Alfa
 Alfred
 Algolia
@@ -136,11 +136,9 @@ Alteryx
 Altium
 Alto
 Alwaysdata
-Amazon
 Ameba
 America
 American
-Amplify
 Amul
 Anaconda
 Analogue
@@ -250,6 +248,7 @@ Awards
 Awesome
 Awwwards
 Axios
+Axis
 B&R
 BEM
 BIM
@@ -273,7 +272,6 @@ Bahn
 Baidu
 Bakaláři
 Balance
-Balancing
 Bamboo
 Bambu
 BandLab
@@ -339,6 +337,7 @@ Blade
 Blazemeter
 Blazor
 Blender
+Blibli
 Blockbench
 Blockchain.com
 Blogger
@@ -351,6 +350,7 @@ BoardGameGeek
 Bob
 Boehringer
 Boeing
+Bohemia
 Bombardier
 BookBub
 BookMyShow
@@ -394,7 +394,6 @@ Buffer
 Bug
 Bugatti
 Bugcrowd
-Bugsnag
 Buhl
 Builder
 Buildkite
@@ -433,7 +432,6 @@ CNN
 CRYENGINE
 CSDN
 CSS
-CSS3
 CTS
 Cachet
 Caddy
@@ -467,6 +465,7 @@ Cartel
 Carto
 Cash
 Cassandra
+Cast
 Castbox
 Castorama
 Castro
@@ -482,6 +481,7 @@ Chain
 Chainguard
 Chainlink
 Chakra
+Change
 Changelog
 Channel
 Charles
@@ -507,7 +507,6 @@ Chocolatey
 Chromatic
 Chrome
 Chromebook
-Chromecast
 Chronicle
 Chrysler
 Chupa
@@ -543,7 +542,6 @@ CloudCannon
 CloudFormation
 CloudStack
 CloudTrail
-CloudWatch
 Cloudera
 Cloudflare
 Cloudinary
@@ -572,6 +570,7 @@ CodeMirror
 CodeNewbie
 CodePen
 CodeProject
+CodeRabbit
 CodeSandbox
 CodeSignal
 CodeStream
@@ -581,13 +580,11 @@ CodeceptJS
 Codecov
 Codeforces
 Codefresh
-Codeium
 Codemagic
 Codementor
 Coder
 CodersRank
 Coderwall
-Codes
 Codeship
 Codewars
 CodinGame
@@ -596,7 +593,6 @@ Codio
 Coffee
 CoffeeScript
 Coggle
-Cognito
 Cognizant
 CoinMarketCap
 Coinbase
@@ -617,6 +613,7 @@ Compiler
 Compose
 Composer
 Computer
+Computers
 Comsol
 Conan
 Concourse
@@ -761,6 +758,7 @@ Depositphotos
 Der
 Design
 Designer
+Detection
 Deutsche
 DevExpress
 Devbox
@@ -788,6 +786,7 @@ Discover
 Display
 Disqus
 Disroot
+Distrobox
 Distrokid
 Division
 Django
@@ -797,10 +796,10 @@ Docs
 Docs.rs
 Docsify
 Doctrine
-DocumentDB
 Docusaurus
 Dogecoin
 Dolby
+Dolibarr
 DolphinScheduler
 DoorDash
 Dota
@@ -808,6 +807,7 @@ Douban
 Dovecot
 Dovetail
 Downdetector
+Download
 Doxygen
 Dragonframe
 Dragons
@@ -833,19 +833,16 @@ Dunzo
 Duolingo
 Duplicati
 Duqu
-DynamoDB
 Dynatrace
 E.Leclerc
 E3
 EA
 EAC
 EBOX
-EC2
-ECS
 ECharts
 EDEKA
 EJS
-EKS
+ENS
 EPEL
 ERPNext
 ESEA
@@ -870,7 +867,6 @@ EditorConfig
 Educative
 Egnyte
 Eight
-ElastiCache
 Elastic
 Elasticsearch
 Elavon
@@ -887,18 +883,15 @@ Elixir
 Elm
 Elsevier
 Emacs
-Email
 Embarcadero
 Embark
 Ember.js
 Emby
 Emirates
 Emlakjet
-Empire
 Encrypt
 EndeavourOS
 Energy
-Engadget
 Engine
 Enix
 Enpass
@@ -923,7 +916,6 @@ Etihad
 Etsy
 European
 Event
-Eventbrite
 Evernote
 Every.org
 Excalidraw
@@ -943,7 +935,6 @@ Extensions
 EyeEm
 F#
 F-Droid
-F-Secure
 F1
 F5
 FACEIT
@@ -957,6 +948,7 @@ FM
 FMOD
 FOSSGIS
 FOX
+FRITZ!
 Face
 Facebook
 Facepunch
@@ -970,7 +962,6 @@ Fanfou
 Fantom
 Farcaster
 FareHarbor
-Fargate
 Fargo
 FastAPI
 Fastify
@@ -1000,7 +991,6 @@ Files
 Filmora
 Fineco
 Fing
-Fire
 Firebase
 Firefish
 Firefly
@@ -1024,6 +1014,7 @@ Flipboard
 Flipkart
 Floatplane
 Flood
+Floorp
 Fluent
 Fluentd
 Fluke
@@ -1117,7 +1108,6 @@ Games
 Gaming
 Gandi
 Garmin
-Gateway
 Gatling
 Gatsby
 Gcore
@@ -1161,7 +1151,6 @@ GoLand
 GoToMeeting
 Godot
 Gojek
-GoldenLine
 Goldman
 Goodreads
 Google
@@ -1190,7 +1179,6 @@ Groovy
 Group
 GroupMe
 Groupon
-Grubhub
 Grunt
 Guacamole
 Guangzhou
@@ -1246,6 +1234,7 @@ Hasura
 Hat
 Hatena
 Have
+Havells
 Haxe
 Headless
 Headphone
@@ -1253,6 +1242,7 @@ Headspace
 Health
 Hearth
 Hedera
+HedgeDoc
 Heijn
 Helium
 Helix
@@ -1263,6 +1253,8 @@ Help
 HelpDesk
 Hepsiemlak
 Hermes
+HeroUI
+Heroic
 Heroku
 Hetzner
 Hevy
@@ -1335,6 +1327,7 @@ IOTA
 IPFS
 IRIS
 ISC2
+ISRO
 ITVx
 IVECO
 Iberia
@@ -1348,7 +1341,6 @@ Iconfinder
 Iconify
 Icons
 Icons8
-Identity
 Image.sc
 ImageJ
 Imgur
@@ -1368,6 +1360,7 @@ Indie
 Inductive
 Industries
 Inertia
+InfinityFree
 InfluxDB
 InfoQ
 Infomaniak
@@ -1381,6 +1374,7 @@ Ink
 Inkdrop
 Inkscape
 Inoreader
+Inquirer
 Insights
 Insomnia
 Insta360
@@ -1403,6 +1397,7 @@ International
 Internet
 Intigriti
 Intuit
+Invidious
 Invoice
 Ionic
 Ionos
@@ -1433,7 +1428,6 @@ Jabber
 Jack's
 Jaeger
 Jaguar
-Jamboard
 Jameson
 Jamstack
 Japan
@@ -1472,6 +1466,7 @@ KDE
 KFC
 KLM
 KNIME
+KOReader
 KTM
 KX
 Kafka
@@ -1577,7 +1572,6 @@ LaTeX
 Lab
 LabVIEW
 Labs
-Lambda
 Lamborghini
 Land
 Lang
@@ -1591,6 +1585,7 @@ Laragon
 Laravel
 Last.fm
 LastPass
+Launcher
 Launchpad
 Lazarus
 LazyVim
@@ -1656,7 +1651,6 @@ LiveChat
 LiveJournal
 Livestream
 Livewire
-Load
 Lobsters
 Local
 Lodash
@@ -1683,9 +1677,7 @@ Lucid
 Lucide
 Ludwig
 Lufthansa
-Lumberyard
 Lumen
-Luna
 Lunacy
 Lutris
 Lydia
@@ -1713,6 +1705,7 @@ MUO
 MX
 MYOB
 MacPaw
+MacPorts
 Macy's
 Madrid
 Magasins
@@ -1735,8 +1728,8 @@ Malt
 Malwarebytes
 Mamba
 ManageIQ
-Management
 Manager
+MangaUpdates
 Manjaro
 Mantine
 MapLibre
@@ -1795,7 +1788,6 @@ Mendeley
 Mentor
 MentorCruise
 Mercado
-Mercedes
 Merck
 Mercurial
 Merlin
@@ -1805,12 +1797,14 @@ Messages
 Messenger
 Meta
 MetaFilter
+MetaGer
 Metabase
 Metacritic
 Metal
 Metasploit
 Meteor
 Metro
+Mezmo
 Micro
 Micro.blog
 MicroPython
@@ -1926,6 +1920,7 @@ NativeScript
 Naver
 Nearby
 Nebula
+Nederlandse
 Neo4j
 Neovim
 Neptune
@@ -1952,7 +1947,6 @@ News
 Next.js
 NextBillion.ai
 NextDNS
-NextUI
 Nextcloud
 Nextdoor
 Nextflow
@@ -1970,8 +1964,10 @@ Ninja
 Ninjas
 Nissan
 NixOS
+Nobara
 Node-RED
 Node.js
+NodeBB
 Nodemon
 Nokia
 Nomad
@@ -2012,7 +2008,7 @@ OCaml
 OKX
 ONLYOFFICE
 ONNX
-OPNSense
+OPNsense
 OPPO
 ORCID
 OS
@@ -2046,6 +2042,7 @@ Omada
 OnStar
 OneDrive's
 OnePlus
+OneStream
 Online
 OnlyFans
 Opel
@@ -2090,7 +2087,6 @@ Orange
 Org
 Organic
 Organization
-Organizations
 Origin
 Osano
 Oshkosh
@@ -2121,6 +2117,7 @@ Packt
 Paddle
 PaddlePaddle
 Paddy
+Padlet
 PagSeguro
 PageSpeed
 Pagekit
@@ -2154,6 +2151,7 @@ Payhip
 Payload
 Payment
 Payoneer
+Paysafe
 Paytm
 Peak
 Pearson
@@ -2213,6 +2211,7 @@ Pixlr
 PlanGrid
 Planet
 PlanetScale
+Planetary
 Plasma
 Platform
 Platform.sh
@@ -2239,7 +2238,6 @@ Podcasts
 Podman
 Poe
 Poetry
-Pointy
 Polars
 Polestar
 Polish
@@ -2277,7 +2275,6 @@ Pretzel
 Prevention
 Prezi
 Price
-Prime
 PrimeFaces
 PrimeNG
 PrimeReact
@@ -2354,7 +2351,9 @@ Qi
 Qiita
 Qiskit
 Qlik
+Qodo
 Qt
+Quad9
 Qualcomm
 Qualtrics
 Qualys
@@ -2379,7 +2378,6 @@ Qzone
 R
 R3
 RAD
-RDS
 REWE
 RISC-V
 ROS
@@ -2434,7 +2432,6 @@ Redis
 Redmine
 Redox
 Redragon
-Redshift
 Redsys
 Redux
 Redux-Saga
@@ -2469,6 +2466,7 @@ Resurrection
 Retool
 RetroArch
 RetroPie
+RevenueCat
 ReverbNation
 Revit
 Revolt.chat
@@ -2490,7 +2488,6 @@ Robinhood
 Roblox
 Roboflow
 Robot
-RobotStudio
 Rocket
 Rocket.Chat
 RocketMQ
@@ -2511,7 +2508,6 @@ Rossmann
 Rotary
 Rotten
 Roundcube
-Route
 Router
 Rover
 RuboCop
@@ -2530,7 +2526,6 @@ RustDesk
 RxDB
 Ryanair
 Rye
-S3
 S7
 SAP
 SCM
@@ -2543,7 +2538,6 @@ SNCF
 SPDX
 SQLAlchemy
 SQLite
-SQS
 SRG
 SSR
 SSRN
@@ -2571,7 +2565,6 @@ Salt
 Sam's
 Samsung
 San
-SanDisk
 Sanic
 Sanity
 Sartorius
@@ -2603,11 +2596,11 @@ ScrollReveal
 Scrum
 Scrutinizer
 ScyllaDB
+Seafile
 Seagate
 SearXNG
 Search
 SeatGeek
-Secrets
 Security
 SecurityScorecard
 Sefaria
@@ -2702,6 +2695,7 @@ Snowflake
 Snowpack
 Snyk
 Social
+Society
 Society6
 Socket
 Socket.io
@@ -2716,8 +2710,6 @@ Sololearn
 Solr
 Solus
 Sonar
-SonarCloud
-SonarLint
 SonarQube
 Sonatype
 Songkick
@@ -2758,6 +2750,7 @@ Splashtop
 Splunk
 Spond
 Sponsors
+Spoorwegen
 Spotify
 Spotlight
 Spreadshirt
@@ -2806,6 +2799,7 @@ Storage
 Store
 Stores
 Storm
+StoryGraph
 Storyblok
 Storybook
 Strapi
@@ -2831,6 +2825,7 @@ Subversion
 Subway
 Sui
 Suite
+Summer
 Sumo
 Suno
 Sunrise
@@ -2876,6 +2871,7 @@ TON
 TOTVS
 TP-Link
 TUI
+TUXEDO
 TV
 TV4
 TYPO3
@@ -2920,6 +2916,7 @@ Telefónica
 Telegram
 Telegraph
 Telekom
+Telenor
 Temporal
 TensorFlow
 Teradata
@@ -3010,6 +3007,7 @@ Treehouse
 Trek
 Trello
 Trend
+Tresorit
 Treyarch
 Tricentis
 Trilium
@@ -3036,6 +3034,7 @@ Turborepo
 Turkish
 Turso
 Tuta
+Twenty
 Twilio
 Twinkly
 Twinmotion
@@ -3092,6 +3091,7 @@ Upstash
 Uptime
 Upwork
 User
+UserVoice
 V
 V2EX
 V8
@@ -3244,6 +3244,7 @@ Wikidata
 Wikimedia
 Wikipedia
 Wikiquote
+Wikisource
 Wikiversity
 Wikivoyage
 Winamp
@@ -3375,8 +3376,8 @@ bspwm
 bunq
 by
 cPanel
+cobalt
 code
-cohost
 comma
 commitlint
 containerd
@@ -3391,6 +3392,7 @@ deepin
 dev.to
 devRant
 diagrams.net
+discord.js
 dm
 dwm
 eBay
@@ -3424,6 +3426,7 @@ iCloud
 iFixit
 iFood
 iHeartRadio
+iLovePDF
 iMessage
 iOS
 iPhones
@@ -3453,6 +3456,7 @@ mpv
 n8n
 neon
 netcup
+nextbike
 nf-core
 ngrok
 niconico
@@ -3530,10 +3534,12 @@ vBulletin
 vFairs
 visx
 vivo
+voelkner
 wasmCloud
 webcomponents.org
 webtrees
 wgpu
+what3words
 wiki.gg
 xyflow
 yabai
