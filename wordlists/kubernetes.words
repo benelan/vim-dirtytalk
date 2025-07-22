@@ -44,6 +44,7 @@ PersistentVolume
 PersistentVolumeClaim
 Pod
 PodAttachOptions
+PodCertificateRequest
 PodDisruptionBudget
 PodExecOptions
 PodPortForwardOptions
