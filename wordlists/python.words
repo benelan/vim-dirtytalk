@@ -63,6 +63,7 @@ evaluate
 expression
 extension
 f-string
+f-strings
 file
 file-like
 filesystem
@@ -150,6 +151,7 @@ stdlib
 string
 strong
 t-string
+t-strings
 text
 thread
 threading
