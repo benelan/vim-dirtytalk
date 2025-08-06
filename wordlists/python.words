@@ -55,6 +55,7 @@ dispatch
 division
 docstring
 duck-typing
+dunder
 encoding
 entry
 environment
@@ -119,6 +120,7 @@ newlines
 number
 object
 of
+operator
 optimized
 order
 package
@@ -163,3 +165,4 @@ universal
 variable
 view
 virtual
+walrus
