@@ -1,7 +1,6 @@
 # This file is generated automatically by `scripts/update-python`. Please do not edit it directly.
 
 # Python-related vocabulary
-2to3
 API
 BDFL
 CPython
@@ -13,6 +12,7 @@ MRO
 PEP
 Python
 Pythonic
+REPL
 Zen
 __future__
 __slots__
@@ -20,9 +20,11 @@ abstract
 alias
 analyzer
 and
+annotate
 annotation
 argument
 asynchronous
+attached
 attribute
 awaitable
 base
@@ -35,6 +37,7 @@ callable
 callback
 checker
 class
+closure
 collection
 complex
 comprehension
@@ -42,6 +45,8 @@ context
 contiguous
 coroutine
 count
+current
+cyclic
 decorator
 deprecated
 descriptor
@@ -50,18 +55,22 @@ dispatch
 division
 docstring
 duck-typing
+dunder
 encoding
 entry
 environment
 error
+evaluate
 expression
 extension
 f-string
+f-strings
 file
 file-like
 filesystem
 finder
 floor
+free
 function
 garbage
 generator
@@ -80,18 +89,21 @@ importing
 interactive
 interpreted
 interpreter
+isolate
 iterable
 iterator
 key
 keyword
 lambda
 lexical
+library
 list
 loader
 locale
 lock
 machine
 magic
+management
 manager
 mapping
 meta
@@ -108,6 +120,8 @@ newlines
 number
 object
 of
+operator
+optimized
 order
 package
 parameter
@@ -115,6 +129,7 @@ path
 path-like
 portion
 positional
+protocol
 provisional
 pyc
 qualified
@@ -130,11 +145,18 @@ slice
 soft
 spec
 special
+standard
+state
 statement
 static
+stdlib
 string
 strong
+t-string
+t-strings
 text
+thread
+threading
 token
 triple-quoted
 tuple
@@ -143,3 +165,4 @@ universal
 variable
 view
 virtual
+walrus
