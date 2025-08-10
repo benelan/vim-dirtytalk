@@ -88,6 +88,7 @@ cp
 cpio
 crc32
 cron
+crond
 crontab
 csplit
 ctags
@@ -109,6 +110,8 @@ dirname
 dmesg
 dnsdomainname
 dos2unix
+dpkg
+dpkg-deb
 du
 dumpkmap
 dumpleases
@@ -143,6 +146,7 @@ fuser
 gencat
 get
 getconf
+getfattr
 getopt
 getopts
 getty
@@ -177,7 +181,6 @@ ip
 ipcalc
 ipcrm
 ipcs
-ipneigh
 jobs
 join
 kill
@@ -231,6 +234,7 @@ mount
 mt
 mv
 nameif
+nbd-client
 nc
 netstat
 newgrp
@@ -247,6 +251,7 @@ numfmt
 od
 openvt
 partprobe
+passwd
 paste
 patch
 pathchk
@@ -322,7 +327,9 @@ stdbuf
 strings
 strip
 stty
+su
 sudo
+sulogin
 sum
 svc
 svok
@@ -338,6 +345,7 @@ tail
 talk
 tar
 taskset
+tc
 tcpdump
 tee
 telnet
@@ -356,9 +364,11 @@ truncate
 ts
 tsort
 tty
+tunctl
 type
 ubirename
 udhcpc
+udhcpc6
 udhcpd
 uevent
 ulimit
