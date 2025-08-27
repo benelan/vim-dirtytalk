@@ -412,6 +412,7 @@ DRAM
 DRBG
 DRI
 DRM
+DROWN
 DRP
 DSA
 DSCP
@@ -803,6 +804,7 @@ KINK
 KML
 KPK
 KPOP
+KRACK
 KRL
 KVM
 Kb
@@ -969,6 +971,7 @@ Mbps
 MoBo
 MoU
 MtE
+N
 NAC
 NACK
 NAIC
@@ -1581,6 +1584,7 @@ VTL
 VaR
 VoIP
 VoLTE
+W
 W3C
 WAF
 WAFS
@@ -1681,6 +1685,7 @@ bit
 bps
 cTAKES
 cc
+cryption
 dev
 eID
 eSATA
