@@ -82,4 +82,5 @@ ValidatingAdmissionPolicyBinding
 ValidatingWebhookConfiguration
 VolumeAttachment
 VolumeAttributesClass
+Workload
 null
