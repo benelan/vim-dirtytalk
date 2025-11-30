@@ -23,13 +23,11 @@ AB
 ABB
 ACM
 ADP
-AEW
 AFDIAN
 AFFiNE
 AI
 AIB
 AIOHTTP
-ALX
 AList
 AMD
 AMD64
@@ -46,7 +44,6 @@ AT&T
 AVM
 Abbott
 Abbvie
-About.me
 Abstract
 Academia
 Academy
@@ -84,10 +81,8 @@ Ads
 Advent
 Adyen
 Aegis
-Aer
 Aeroflot
 Aeroméxico
-Aerospike
 Affinity
 AfterShip
 Afterpay
@@ -117,7 +112,6 @@ Albert
 Alby
 Alchemy
 Aldi
-Alfa
 Alfred
 Algolia
 Algorand
@@ -131,13 +125,10 @@ AllTrails
 Allegro
 Alliance
 AlliedModders
-AlloCiné
 AlmaLinux
 Alpine
 Alpine.js
 AlternativeTo
-Alteryx
-Altium
 Alto
 Alwaysdata
 Ameba
@@ -237,7 +228,6 @@ Auth0
 Authelia
 Authenticator
 Authentik
-Authy
 Auto
 AutoCAD
 AutoCannon
@@ -260,6 +250,7 @@ Awwwards
 Axios
 Axis
 B&R
+B4X
 BEM
 BIM
 BMC
@@ -396,7 +387,6 @@ Brex
 Bricks
 British
 Broadcom
-Bros.
 Browser
 Bruno
 Buddy
@@ -464,7 +454,6 @@ Camunda
 Canada
 Candle
 Canonical
-Canva
 Canvas
 CapRover
 Capacitor
@@ -583,7 +572,6 @@ CodeFactor
 CodeIgniter
 CodeMirror
 CodeNewbie
-CodePen
 CodeProject
 CodeRabbit
 CodeSandbox
@@ -608,7 +596,6 @@ Codio
 Coffee
 CoffeeScript
 Coggle
-Cognizant
 CoinMarketCap
 Coinbase
 Colab
@@ -777,7 +764,6 @@ Deploy
 Depositphotos
 Der
 Design
-Designer
 Detection
 Deutsche
 DevExpress
@@ -794,7 +780,6 @@ Dictionary.com
 Digg
 Digi-Key
 DigiCert
-Digital
 DigitalOcean
 Diners
 Dior
@@ -1023,7 +1008,6 @@ Firefox
 Fireship
 Firewalla
 Fish
-Fit
 Fitbit
 FiveM
 Fiverr
@@ -1037,7 +1021,6 @@ Flickr
 Flightaware
 Flink
 Flipboard
-Flipkart
 Floatplane
 Flood
 Floorp
@@ -1108,7 +1091,6 @@ Furry
 FusionAuth
 FutureLearn
 Fyle
-G
 G2
 G2A
 G2G
@@ -1291,7 +1273,6 @@ Hepsiemlak
 Hermes
 HeroUI
 Heroic
-Heroku
 Hetzner
 Hevy
 Hexlet
@@ -1387,7 +1368,6 @@ Imou
 Impress
 ImprovMX
 Impulse
-InVision
 Indeed
 Index
 IndiGo
@@ -1401,7 +1381,6 @@ InfinityFree
 InfluxDB
 InfoQ
 Infomaniak
-Informatica
 Infosys
 Infracost
 Ingelheim
@@ -1464,7 +1443,6 @@ JUnit5
 Jabber
 Jack's
 Jaeger
-Jaguar
 Jameson
 Jamstack
 Japan
@@ -1614,7 +1592,6 @@ LabEx
 LabVIEW
 Labs
 Lamborghini
-Land
 Lang
 LangChain
 LangGraph
@@ -1670,7 +1647,6 @@ LimeSurvey
 Limited
 LineageOS
 Linear
-Lingus
 Link
 Linkerd
 Linkfire
@@ -1702,7 +1678,6 @@ Lodash
 Log4j
 LogMeIn
 Logic
-Logitech
 Logo
 Logseq
 Logstash
@@ -1715,6 +1690,7 @@ Loot
 Lospec
 LottieFiles
 Lua
+Luanti
 Luau
 Lubuntu
 Lucene
@@ -1734,6 +1710,7 @@ MAAS
 MAMP
 MAN
 MATE
+MDBList
 MDN
 MDX
 MEGA
@@ -1866,7 +1843,6 @@ Milvus
 MinGW-w64
 MinIO
 Minds
-Minetest
 Mini
 MiniMax
 Mint
@@ -1891,7 +1867,6 @@ Model
 Models
 Modin
 Modrinth
-Mods
 Modules
 Mojeek
 Moleculer
@@ -1921,13 +1896,11 @@ Motors
 Movie
 Movistar
 Mozilla
-Mulesoft
 Mullvad
 Multisim
 Mumble
 Municipal
 Mural
-MuseScore
 Music
 MusicBrainz
 MyAnimeList
@@ -1995,6 +1968,7 @@ Neutralinojs
 New
 NewPipe
 Newegg
+Newgrounds
 News
 Next.js
 NextBillion.ai
@@ -2003,7 +1977,6 @@ Nextcloud
 Nextdoor
 Nextflow
 Nextra
-Nexus
 NgRx
 Nginx
 Nhost
@@ -2198,6 +2171,7 @@ Parity
 Parquet
 Parrot
 Parse.ly
+Passbolt
 Passport
 Pastebin
 Patreon
@@ -2235,7 +2209,6 @@ Philips
 Phoenix
 PhonePe
 Phosphor
-Photo
 Photobucket
 Photocrowd
 Photon
@@ -2319,6 +2292,7 @@ Post
 PostCSS
 PostHog
 PostgreSQL
+Postiz
 Postman
 Postmates
 Power
@@ -2413,6 +2387,7 @@ Qi
 Qiita
 Qiskit
 Qlik
+Qlty
 Qodo
 Qt
 Quad9
@@ -2430,7 +2405,6 @@ Quest
 QuickBooks
 QuickLook
 QuickTime
-Quip
 Quizlet
 Quora
 Qwant
@@ -2505,6 +2479,7 @@ Reebok
 Refine
 Refined
 Register
+Reka
 Relay
 Reliance
 Relic
@@ -2567,7 +2542,6 @@ Roll20
 Rollbar
 Rolldown
 Rolls-Royce
-Romeo
 Rook
 Roon
 Root
@@ -2577,7 +2551,6 @@ Rotary
 Rotten
 Roundcube
 Router
-Rover
 RuboCop
 Ruby
 RubyGems
@@ -2627,7 +2600,6 @@ SageMath
 Sahibinden
 Sailfish
 Sails.js
-Salesforce
 Salla
 Salt
 Sam's
@@ -2657,7 +2629,6 @@ Scrapbox
 Scrapy
 Scratch
 Screencastify
-Scribd
 Scrimba
 Script
 ScrollReveal
@@ -2716,7 +2687,6 @@ Shorts
 Showpad
 Showtime
 Showwcase
-Shutterstock
 SiFive
 SiYuan
 SideQuest
@@ -2745,7 +2715,6 @@ Sketchfab
 Skillshare
 Sky
 Skypack
-Slack
 Slackware
 Slashdot
 Sleep
@@ -2964,6 +2933,7 @@ Talenthouse
 Talos
 Tamiya
 Tampermonkey
+TanStack
 Taobao
 Tapas
 Target
@@ -3005,6 +2975,7 @@ Testing
 Tether
 Text
 Textpattern
+Textual
 Thangs
 Thanos
 The
@@ -3100,7 +3071,6 @@ Try
 TryHackMe
 Tubi
 Tumblr
-TuneIn
 Turbo
 TurboSquid
 Turborepo
@@ -3108,7 +3078,6 @@ Turkish
 Turso
 Tuta
 Twenty
-Twilio
 Twinkly
 Twinmotion
 Twitch
@@ -3270,10 +3239,8 @@ WakaTime
 Wallabag
 Wallet
 WalletConnect
-Walmart
 Wantedly
 Wappalyzer
-Warner
 Warp
 Wasabi
 Washington
@@ -3441,6 +3408,7 @@ Zsh
 Zulip
 Zyte
 a
+about.me
 abuse.ch
 addy.io
 arXiv
@@ -3468,7 +3436,6 @@ daily.dev
 data.ai
 date-fns
 dblp
-dbt
 de
 deepin
 dev.to
@@ -3527,7 +3494,7 @@ libuv
 listmonk
 macOS
 mail.com
-mailbox.org
+mailbox
 mastercomfig
 mdBook
 media
