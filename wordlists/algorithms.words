@@ -33,6 +33,7 @@ Baum
 Bellman–Ford
 Benford's
 Bk
+Bkd-tree
 Bloom
 Boas
 Boolean
@@ -106,6 +107,7 @@ Intelligence
 Jaro–Winkler
 Johnson's
 Johnson–Trotter
+K-D-B-tree
 K-dominant
 KMP
 KV
@@ -276,7 +278,6 @@ bag
 balance
 balanced
 basis
-bdk
 beaver
 before
 best
@@ -608,7 +609,6 @@ k-clustering
 k-coloring
 k-connected
 k-d
-k-d-B-tree
 k-dimensional
 k-way
 key
