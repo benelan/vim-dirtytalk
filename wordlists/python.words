@@ -32,6 +32,7 @@ base
 based
 binary
 borrowed
+build
 bytecode
 bytes-like
 callable
@@ -78,6 +79,7 @@ filesystem
 finder
 floor
 free
+free-threaded
 function
 garbage
 generator
