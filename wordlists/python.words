@@ -95,6 +95,7 @@ immutable
 import
 importer
 importing
+index
 interactive
 interpreted
 interpreter
@@ -170,6 +171,7 @@ static
 stdlib
 string
 strong
+subscript
 synchronization
 t-string
 t-strings
