@@ -57,6 +57,7 @@ ReplicaSet
 ReplicationController
 ResourceClaim
 ResourceClaimTemplate
+ResourcePoolStatusRequest
 ResourceQuota
 ResourceSlice
 Role
