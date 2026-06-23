@@ -10,7 +10,22 @@ function! dirtytalk#update()
   endfor
   let l:wordlist_output_file = tempname()
   call writefile(l:wordlist_full, l:wordlist_output_file)
-  let l:spell_dir = spellfile#WritableSpellDir().'/'
+  let l:spell_dir = dirtytalk#WritableSpellDir().'/'
   call mkdir(l:spell_dir, 'p')
   execute 'mkspell! '.l:spell_dir.'programming'.' '.l:wordlist_output_file
 endfunction
+
+" copy of spellfile#WritableSpellDir() because it was removed from neovim
+function! dirtytalk#WritableSpellDir()
+  if has("unix")
+    " For Unix always use the $HOME/.vim directory
+    return $HOME . "/.vim/spell"
+  endif
+  for dir in split(&rtp, ',')
+    if filewritable(dir) == 2
+      return dir . "/spell"
+    endif
+  endfor
+  return ''
+endfunction
+
