@@ -17,7 +17,9 @@ endfunction
 
 " copy of spellfile#WritableSpellDir() because it was removed from neovim
 function! dirtytalk#WritableSpellDir()
-  if has("unix")
+  if has("nvim")
+    return stdpath("data") . "/site/spell"
+  elseif has("unix")
     " For Unix always use the $HOME/.vim directory
     return $HOME . "/.vim/spell"
   endif
