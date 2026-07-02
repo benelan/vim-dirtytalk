@@ -171,6 +171,7 @@ state
 statement
 static
 stdlib
+steal
 string
 strong
 subscript
