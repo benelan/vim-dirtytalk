@@ -11,6 +11,7 @@ ClusterRole
 ClusterRoleBinding
 ClusterTrustBundle
 ComponentStatus
+CompositePodGroup
 ConfigMap
 ControllerRevision
 CronJob
