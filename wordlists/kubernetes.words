@@ -24,6 +24,7 @@ EndpointSlice
 Endpoints
 Event
 Eviction
+EvictionRequest
 FlowSchema
 HorizontalPodAutoscaler
 IPAddress
