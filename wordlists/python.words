@@ -69,6 +69,7 @@ entry
 environment
 error
 evaluate
+exhausted
 expression
 extension
 f-string
