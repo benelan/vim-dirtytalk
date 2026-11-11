@@ -175,6 +175,7 @@ stdlib
 steal
 string
 strong
+subclass
 subscript
 synchronization
 t-string
