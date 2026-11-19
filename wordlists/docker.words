@@ -1,18 +1,4 @@
 # This file is generated automatically by `scripts/update-docker`. Please do not edit it directly.
 
 # Docker-related vocabulary
-Docker CLI
-Docker Compose
-Docker Desktop
-Docker Engine
-Docker Hub
-base image
-build
-container
-context
-image
-layer
-multi-architecture image
-persistent storage
-registry
-volume
+404
