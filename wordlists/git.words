@@ -80,6 +80,7 @@ representations
 resolve
 revision
 rewind
+root
 shallow
 stash
 submodule
